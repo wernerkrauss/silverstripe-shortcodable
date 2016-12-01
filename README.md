@@ -1,4 +1,4 @@
-# SilverStripe Shortcodable 2.0
+# SilverStripe Shortcodable 3.0
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sheadawson/silverstripe-shortcodable/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sheadawson/silverstripe-shortcodable/?branch=master)
 
@@ -9,7 +9,7 @@ Provides a GUI for CMS users to insert Shortcodes into the HTMLEditorField + an 
 ## Requirements
 * SilverStripe 3.5 +
 
-See 2.x branch/releases for SilverStripe 3.1 - 3.4 compatibility
+See [2.x branch](https://github.com/sheadawson/silverstripe-shortcodable/tree/2.0)/releases for SilverStripe 3.1 - 3.4 compatibility
 
 ## Installation
 Install via composer, run dev/build
