@@ -1,5 +1,5 @@
 # SilverStripe Shortcodable 4
-
+[![Build Status](https://travis-ci.org/sheadawson/silverstripe-shortcodable.svg?branch=master)](https://travis-ci.org/sheadawson/silverstripe-shortcodable)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sheadawson/silverstripe-shortcodable/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sheadawson/silverstripe-shortcodable/?branch=master)
 
 ![Screenshot](https://raw.github.com/sheadawson/silverstripe-shortcodable/master/images/screenshot.png)
